@@ -25,5 +25,5 @@ This project is a graphical calculator developed using the `Tkinter` and `Custom
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
-   cd repository-name
+   git clone https://github.com/vallz0/Calculator.git
+   cd Calculator
