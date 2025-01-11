@@ -34,8 +34,8 @@ class CalculatorUI:
 
         # Buttons
         buttons = [
-            ("C", self.clear, 10, 125), ("(", lambda: self.enter_value("("), 85, 125),
-            (")", lambda: self.enter_value(")"), 160, 125), ("÷", lambda: self.enter_value("÷"), 235, 170),
+            ("C", self.clear, 10, 170), ("(", lambda: self.enter_value("("), 85, 170),
+            (")", lambda: self.enter_value(")"), 160, 170), ("÷", lambda: self.enter_value("÷"), 235, 170),
             ("7", lambda: self.enter_value("7"), 10, 225), ("8", lambda: self.enter_value("8"), 85, 225),
             ("9", lambda: self.enter_value("9"), 160, 225), ("x", lambda: self.enter_value("x"), 235, 225),
             ("4", lambda: self.enter_value("4"), 10, 280), ("5", lambda: self.enter_value("5"), 85, 280),
